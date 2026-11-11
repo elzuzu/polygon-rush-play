@@ -14,7 +14,7 @@
    "length": 13704,
    "tunnels": 0,
    "bridges": 2,
-   "size": 4757104
+   "size": 4992447
   },
   {
    "id": "e02",
@@ -28,7 +28,7 @@
    "length": 12716,
    "tunnels": 0,
    "bridges": 6,
-   "size": 4101053
+   "size": 4332552
   },
   {
    "id": "e03",
@@ -42,7 +42,7 @@
    "length": 17548,
    "tunnels": 4,
    "bridges": 19,
-   "size": 5366559
+   "size": 5593806
   },
   {
    "id": "e04",
@@ -56,7 +56,7 @@
    "length": 9896,
    "tunnels": 2,
    "bridges": 11,
-   "size": 3456937
+   "size": 3645749
   },
   {
    "id": "e05",
@@ -70,7 +70,7 @@
    "length": 13934,
    "tunnels": 9,
    "bridges": 11,
-   "size": 4399949
+   "size": 4626487
   },
   {
    "id": "e06",
@@ -84,7 +84,7 @@
    "length": 11028,
    "tunnels": 7,
    "bridges": 11,
-   "size": 3443793
+   "size": 3669306
   },
   {
    "id": "e07",
@@ -98,7 +98,7 @@
    "length": 16078,
    "tunnels": 8,
    "bridges": 23,
-   "size": 5026251
+   "size": 5259506
   },
   {
    "id": "e08",
@@ -112,7 +112,35 @@
    "length": 12168,
    "tunnels": 8,
    "bridges": 17,
-   "size": 4041467
+   "size": 4264577
+  },
+  {
+   "id": "e09",
+   "file": "stages/e09.json",
+   "title": "A20 · km 108–122",
+   "subtitle": "Fondachello · Corriolo · Barcellona Pozzo di Gotto",
+   "km": [
+    108.32,
+    121.64
+   ],
+   "length": 13238,
+   "tunnels": 3,
+   "bridges": 5,
+   "size": 4339872
+  },
+  {
+   "id": "e10",
+   "file": "stages/e10.json",
+   "title": "A20 · km 122–135",
+   "subtitle": "Barcellona Pozzo di Gotto · Terme Vigliatore · Oliveri",
+   "km": [
+    121.64,
+    135.13
+   ],
+   "length": 13454,
+   "tunnels": 0,
+   "bridges": 5,
+   "size": 4431314
   }
  ],
  "count": 10
