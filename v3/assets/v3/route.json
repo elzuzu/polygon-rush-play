@@ -1,0 +1,119 @@
+{
+ "title": "Catania → Falcone",
+ "roads": "A18 · A20",
+ "stages": [
+  {
+   "id": "e01",
+   "file": "stages/e01.json",
+   "title": "A18 · km 0–14",
+   "subtitle": "San Gregorio di Catania · Acireale · Mangano",
+   "km": [
+    0.3,
+    14.09
+   ],
+   "length": 13704,
+   "tunnels": 0,
+   "bridges": 2,
+   "size": 4757104
+  },
+  {
+   "id": "e02",
+   "file": "stages/e02.json",
+   "title": "A18 · km 14–27",
+   "subtitle": "Guardia · Giarre · Fiumefreddo di Sicilia",
+   "km": [
+    14.09,
+    27.15
+   ],
+   "length": 12716,
+   "tunnels": 0,
+   "bridges": 6,
+   "size": 4101053
+  },
+  {
+   "id": "e03",
+   "file": "stages/e03.json",
+   "title": "A18 · km 27–45",
+   "subtitle": "Piedimonte Etneo · Taormina · Forza d'Agrò",
+   "km": [
+    27.15,
+    44.74
+   ],
+   "length": 17548,
+   "tunnels": 4,
+   "bridges": 19,
+   "size": 5366559
+  },
+  {
+   "id": "e04",
+   "file": "stages/e04.json",
+   "title": "A18 · km 45–55",
+   "subtitle": "Letojanni · San Francesco di Paola · Roccalumera",
+   "km": [
+    44.74,
+    54.81
+   ],
+   "length": 9896,
+   "tunnels": 2,
+   "bridges": 11,
+   "size": 3456937
+  },
+  {
+   "id": "e05",
+   "file": "stages/e05.json",
+   "title": "A18 · km 55–69",
+   "subtitle": "Furci Siculo · Alì · Briga Marina",
+   "km": [
+    54.81,
+    68.84
+   ],
+   "length": 13934,
+   "tunnels": 9,
+   "bridges": 11,
+   "size": 4399949
+  },
+  {
+   "id": "e06",
+   "file": "stages/e06.json",
+   "title": "A18 / A20 · km 69–80",
+   "subtitle": "Giampilieri Superiore · Galati Sant'Anna · Cumia Inferiore",
+   "km": [
+    68.84,
+    79.92
+   ],
+   "length": 11028,
+   "tunnels": 7,
+   "bridges": 11,
+   "size": 3443793
+  },
+  {
+   "id": "e07",
+   "file": "stages/e07.json",
+   "title": "A20 · km 80–96",
+   "subtitle": "Messina · Orto Liuzzo",
+   "km": [
+    79.92,
+    96.12
+   ],
+   "length": 16078,
+   "tunnels": 8,
+   "bridges": 23,
+   "size": 5026251
+  },
+  {
+   "id": "e08",
+   "file": "stages/e08.json",
+   "title": "A20 · km 96–108",
+   "subtitle": "Rodia · Rometta Marea · Monforte Marina",
+   "km": [
+    96.12,
+    108.32
+   ],
+   "length": 12168,
+   "tunnels": 8,
+   "bridges": 17,
+   "size": 4041467
+  }
+ ],
+ "count": 10
+}
