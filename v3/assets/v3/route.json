@@ -6,15 +6,15 @@
    "id": "e01",
    "file": "stages/e01.json",
    "title": "A18 · km 0–14",
-   "subtitle": "San Gregorio di Catania · Acireale · Mangano",
+   "subtitle": "San Gregorio di Catania · Acireale · Carruba",
    "km": [
     0.3,
     14.09
    ],
-   "length": 13704,
+   "length": 13790,
    "tunnels": 0,
    "bridges": 2,
-   "size": 4992447
+   "size": 5320642
   },
   {
    "id": "e02",
@@ -25,10 +25,10 @@
     14.09,
     27.15
    ],
-   "length": 12716,
+   "length": 13060,
    "tunnels": 0,
    "bridges": 6,
-   "size": 4332552
+   "size": 4857865
   },
   {
    "id": "e03",
@@ -39,80 +39,80 @@
     27.15,
     44.74
    ],
-   "length": 17548,
-   "tunnels": 4,
-   "bridges": 19,
-   "size": 5593806
+   "length": 17590,
+   "tunnels": 5,
+   "bridges": 21,
+   "size": 6046088
   },
   {
    "id": "e04",
    "file": "stages/e04.json",
    "title": "A18 · km 45–55",
-   "subtitle": "Letojanni · San Francesco di Paola · Roccalumera",
+   "subtitle": "Gallodoro · Rina · Allume",
    "km": [
     44.74,
     54.81
    ],
-   "length": 9896,
+   "length": 10070,
    "tunnels": 2,
    "bridges": 11,
-   "size": 3645749
+   "size": 4097598
   },
   {
    "id": "e05",
    "file": "stages/e05.json",
    "title": "A18 · km 55–69",
-   "subtitle": "Furci Siculo · Alì · Briga Marina",
+   "subtitle": "Furci Siculo · Alì · Santa Margherita Marina",
    "km": [
     54.81,
     68.84
    ],
-   "length": 13934,
-   "tunnels": 9,
-   "bridges": 11,
-   "size": 4626487
+   "length": 14030,
+   "tunnels": 10,
+   "bridges": 12,
+   "size": 5118079
   },
   {
    "id": "e06",
    "file": "stages/e06.json",
    "title": "A18 / A20 · km 69–80",
-   "subtitle": "Giampilieri Superiore · Galati Sant'Anna · Cumia Inferiore",
+   "subtitle": "Giampilieri Superiore · Mili San Pietro · Cumia Inferiore",
    "km": [
     68.84,
     79.92
    ],
-   "length": 11028,
+   "length": 11080,
    "tunnels": 7,
-   "bridges": 11,
-   "size": 3669306
+   "bridges": 13,
+   "size": 4088367
   },
   {
    "id": "e07",
    "file": "stages/e07.json",
    "title": "A20 · km 80–96",
-   "subtitle": "Messina · Orto Liuzzo",
+   "subtitle": "Messina · Saponara Marittima",
    "km": [
     79.92,
     96.12
    ],
-   "length": 16078,
-   "tunnels": 8,
+   "length": 16200,
+   "tunnels": 9,
    "bridges": 23,
-   "size": 5259506
+   "size": 5753268
   },
   {
    "id": "e08",
    "file": "stages/e08.json",
    "title": "A20 · km 96–108",
-   "subtitle": "Rodia · Rometta Marea · Monforte Marina",
+   "subtitle": "Rodia · Rometta Marea · San Pier Marina",
    "km": [
     96.12,
     108.32
    ],
-   "length": 12168,
+   "length": 12200,
    "tunnels": 8,
    "bridges": 17,
-   "size": 4264577
+   "size": 4709482
   },
   {
    "id": "e09",
@@ -123,24 +123,24 @@
     108.32,
     121.64
    ],
-   "length": 13238,
+   "length": 13320,
    "tunnels": 3,
-   "bridges": 5,
-   "size": 4339872
+   "bridges": 6,
+   "size": 4833665
   },
   {
    "id": "e10",
    "file": "stages/e10.json",
-   "title": "A20 · km 122–135",
+   "title": "A20 · km 122–134",
    "subtitle": "Barcellona Pozzo di Gotto · Terme Vigliatore · Oliveri",
    "km": [
     121.64,
-    135.13
+    133.83
    ],
-   "length": 13454,
+   "length": 12190,
    "tunnels": 0,
    "bridges": 5,
-   "size": 4431314
+   "size": 4525361
   }
  ],
  "count": 10
